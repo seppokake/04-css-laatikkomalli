@@ -1,0 +1,49 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 1rem;
+    font-size: 1.6rem;
+    background-color: #BBDDEE;
+}
+section, h1, h2, h3, ul{
+    margin-block-end: 1rem;
+    padding: 1rem;
+}
+
+section{}
+h1{    font-weight: 700;}
+h2{}
+h3{}
+p{}
+pre{}
+
+/* class-tyyppiset säännöt */
+.iso {    float: left;
+    font-size: 500%;
+    width: 10rem;
+    text-align: center;
+    background-color: #568;
+    color: white;
+    margin: -1rem 2rem 1rem -1rem;
+    padding: 1rem 1rem 2rem 0;
+    border-block-end: 1.5rem white solid;
+    border-inline-end: 1.5rem white solid}
+.small-left-top {    float: left;
+    width: 100px;
+    height: 70px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    border: 1px black solid;
+    border-width: 0 1px 1px 0px;
+    padding: 0 10px 5px 0;
+    margin: -1px 25px 10px -1px;
+}
+.small-left-top img{height: 70px;width: 100px;
+}
+ul{}
+ul li{}
+.banner-left {}
+.banner-right{}
